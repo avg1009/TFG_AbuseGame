@@ -1,0 +1,333 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SceneGrass.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Escenas Juego final/1 Inicio.unity
+    guid: 76f904f140c36804db41dc3d43d262ef
+  - enabled: 1
+    path: Assets/Scenes/Escenas Juego final/1 Inicio aa transicion.unity
+    guid: 4641c53a96ad9de4ca77e490eff75400
+  - enabled: 1
+    path: Assets/Scenes/Escenas Juego final/2 Advertencia.unity
+    guid: 4d30904125c5e424d9bc847688e624fb
+  - enabled: 1
+    path: Assets/Scenes/Escenas Juego final/3 Controles.unity
+    guid: dd0e51eaaa990f242a32c3ab08755171
+  - enabled: 1
+    path: "Assets/Scenes/Escenas Juego final/4 1a Transici\xF3n en casa.unity"
+    guid: 17892b62f78f7e540b85ec9b36ab93c8
+  - enabled: 1
+    path: Assets/Scenes/Escenas Juego final/5 Casa Inicio.unity
+    guid: 7b42214521920c9438ab09d05f648afd
+  - enabled: 1
+    path: Assets/Scenes/Escenas Juego final/6 Calle.unity
+    guid: 243361587de83884e90e0a4a5153c66d
+  - enabled: 1
+    path: "Assets/Scenes/Escenas Juego final/7 2a Transici\xF3n entras al colegio.unity"
+    guid: 995bb5a3fb5397d4ca62ecda069e5256
+  - enabled: 1
+    path: Assets/Scenes/Escenas Juego final/8 Patio.unity
+    guid: a1f2ef7bd84236e4c926b8372ac35241
+  - enabled: 1
+    path: "Assets/Scenes/Escenas Juego final/9 3a Transici\xF3n clase a lectura.unity"
+    guid: 409f4597755eac8409f59b0844f7c39e
+  - enabled: 1
+    path: Assets/Scenes/Escenas Juego final/10 Escena Lectura.unity
+    guid: 18f75e0b8237d79499a1a504a615d324
+  - enabled: 1
+    path: Assets/Scenes/Escenas Juego final/11 Minijuego Lectura.unity
+    guid: 957e3210ae983d840a4e160e427ccd68
+  - enabled: 1
+    path: "Assets/Scenes/Escenas Juego final/12 4a Transici\xF3n partido de futbol.unity"
+    guid: ad3c857860aadfe4d9455cab7814222b
+  - enabled: 1
+    path: Assets/Scenes/Escenas Juego final/13 a El partido.unity
+    guid: 2affeba90697e1a47872515346b6dd27
+  - enabled: 1
+    path: Assets/Scenes/Escenas Juego final/13 Minijuego Futbol.unity
+    guid: 3b016baaebead58428bd20d8ec22927f
+  - enabled: 1
+    path: "Assets/Scenes/Escenas Juego final/14 5a Transici\xF3n correr.unity"
+    guid: 903b37d0e6fd82d469342115eef67b8a
+  - enabled: 1
+    path: Assets/Scenes/Escenas Juego final/15 Minijuego Correr.unity
+    guid: 35ba564042a558d4c9f8d2a340b7fc87
+  - enabled: 1
+    path: Assets/Scenes/Escenas Juego final/16 5_1 Primero.unity
+    guid: 13d854caae1c8bc4f889c6c1f0ac4dcd
+  - enabled: 1
+    path: Assets/Scenes/Escenas Juego final/17 5_2 De los primeros.unity
+    guid: 6144fca82d1401144a3dc42761abe6f7
+  - enabled: 1
+    path: Assets/Scenes/Escenas Juego final/18 5_3 Mid.unity
+    guid: 0bfc0cafef47a4a419ed3475567aa3f4
+  - enabled: 1
+    path: Assets/Scenes/Escenas Juego final/19 Correr.unity
+    guid: 63df51009971de74d9bfc2fc477099e4
+  - enabled: 1
+    path: "Assets/Scenes/Escenas Juego final/20 6a Transici\xF3n Zapatillas.unity"
+    guid: 86e23de2324435f48808b8cbd26ccb71
+  - enabled: 1
+    path: "Assets/Scenes/Escenas Juego final/21 Zapatillas Nike imitaci\xF3n.unity"
+    guid: a5ab235ed60e76148b1e8d6ac7c7b718
+  - enabled: 1
+    path: "Assets/Scenes/Escenas Juego final/22 7a Transicio\xF3n Estuche.unity"
+    guid: 00dd206f23bf6a049b27d52e88372847
+  - enabled: 1
+    path: Assets/Scenes/Escenas Juego final/23 5 Estuche.unity
+    guid: 3d7fbad23791b944290a8437b0b67b16
+  - enabled: 1
+    path: "Assets/Scenes/Escenas Juego final/24 Transici\xF3n RRSS.unity"
+    guid: e646fe5737a3ed249b0894e58de39a5a
+  - enabled: 1
+    path: Assets/Scenes/Escenas Juego final/25 RRSS.unity
+    guid: b9edf6f46dfb03446a3cb251041b1320
+  - enabled: 1
+    path: "Assets/Scenes/Escenas Juego final/26 Transici\xF3n Homofobia.unity"
+    guid: 33fe6342d16856b43b8d1cd7db11f6ee
+  - enabled: 1
+    path: Assets/Scenes/Escenas Juego final/27 Escena Armario_Homofobia.unity
+    guid: 8e3572e56108e954987bf610ed8f949d
+  - enabled: 1
+    path: Assets/Scenes/Escenas Juego final/28 Minijuego Homofobia.unity
+    guid: ad1ea8a95c891b149b28580f734f4f10
+  - enabled: 1
+    path: "Assets/Scenes/Escenas Juego final/29 10a Transici\xF3n Fumar.unity"
+    guid: 3913820cd12978447a29fb0669ede29d
+  - enabled: 1
+    path: Assets/Scenes/Escenas Juego final/30 8 Escena Fumar.unity
+    guid: dd33cbd81f220b542b9ea8378d66fe4f
+  - enabled: 1
+    path: Assets/Scenes/Escenas Juego final/31 Minijuego Tabaco.unity
+    guid: d8c2646d146b3eb45933768c9a40e951
+  - enabled: 1
+    path: "Assets/Scenes/Escenas Juego final/32 11a Transici\xF3n Escenas Bullyng.unity"
+    guid: 369bbc19eb354a041a1c50145a54e70d
+  - enabled: 1
+    path: Assets/Scenes/Escenas Juego final/33 EscenaBully1.unity
+    guid: c03776f818c16fa448d4600158679552
+  - enabled: 1
+    path: Assets/Scenes/Escenas Juego final/34 Combate EscenaBullyng.unity
+    guid: 76698953f1b6bf546b1b768115910dcf
+  - enabled: 1
+    path: Assets/Scenes/Escenas Juego final/35  Escena2Bully.unity
+    guid: 5947fd1fd3d953a419f78871f6df7c9b
+  - enabled: 1
+    path: "Assets/Scenes/Escenas Juego final/36 12a Transici\xF3n Escenas Bullyng
+      1.unity"
+    guid: c3fbdf5919060d44c97b07a849cd9905
+  - enabled: 1
+    path: Assets/Scenes/Escenas Juego final/37 13 EscenaBully3.unity
+    guid: dbb0c2f3787405c4fba067cfb07577f0
+  - enabled: 1
+    path: Assets/Scenes/Escenas Juego final/38 Combate Final.unity
+    guid: 596f389e87e8f6841a6543eea2ea63e8
+  - enabled: 1
+    path: "Assets/Scenes/Escenas Juego final/39 14a Transici\xF3n Foto desalentadora.unity"
+    guid: 3d5c996910a29b2419583a9f95fcbc27
+  - enabled: 1
+    path: "Assets/Scenes/Escenas Juego final/40 15a Transici\xF3n Foto desalentadora
+      comentario.unity"
+    guid: 432399c5691a7ed499d6741ef3679db3
+  - enabled: 1
+    path: Assets/Scenes/Escenas Juego final/41 Casa_Final.unity
+    guid: cca00c6c610c64942a24ba1abfdf2d18
+  - enabled: 1
+    path: Assets/Scenes/Escenas Juego final/42 Final Cuentas a tu madre.unity
+    guid: b44b5c677b5ca6b4eb331fb6da5a37b6
+  - enabled: 1
+    path: Assets/Scenes/Escenas Juego final/43 Final No cuentas nada buen marcador.unity
+    guid: 37648dc09803ac548869b20b510ede1d
+  - enabled: 1
+    path: Assets/Scenes/Escenas Juego final/44 Final No cuentas nada mal marcador.unity
+    guid: cd43898c5443a324eb6428a1d73e48d0
+  - enabled: 1
+    path: "Assets/Scenes/Escenas Juego final/45 Final Cr\xE9ditos.unity"
+    guid: 9ed3867bb7700774188185517f3012ac
+  - enabled: 1
+    path: Assets/Scenes/Escenas Juego final/46 ReStart.unity
+    guid: c476a28b0daa7054abc916612026bdb9
+  - enabled: 0
+    path: Assets/GameScenes/Spain/Inicio.unity
+    guid: 00752492bab2b91418b86dd537210104
+  - enabled: 0
+    path: "Assets/GameScenes/Spain/Transiciones/1a Transici\xF3n en casa.unity"
+    guid: 92a5fa09382527f4eb6dd1533c32972f
+  - enabled: 0
+    path: "Assets/GameScenes/Spain/Transiciones/2a Transici\xF3n entras al colegio.unity"
+    guid: 688f47be339e68647b8dc6d992218a91
+  - enabled: 0
+    path: "Assets/GameScenes/Spain/Transiciones/3a Transici\xF3n clase a lectura.unity"
+    guid: 81d682255f5c1a8429ca985c26243eab
+  - enabled: 0
+    path: "Assets/GameScenes/Spain/Transiciones/4a Transici\xF3n partido de futbol.unity"
+    guid: 0c2e11b11b7140149bda483df3444a1c
+  - enabled: 0
+    path: "Assets/GameScenes/Spain/Transiciones/5a Transici\xF3n correr.unity"
+    guid: e1aa5aed5898e884f8e358c43e0adc97
+  - enabled: 0
+    path: "Assets/GameScenes/Spain/Transiciones/6a Transici\xF3n Zapatillas.unity"
+    guid: 5827b3941bc6f70479533be6607e0f01
+  - enabled: 0
+    path: "Assets/GameScenes/Spain/Transiciones/7a Transicio\xF3n Estuche.unity"
+    guid: 788892fbb40aa9c4e873aa7028d795b9
+  - enabled: 0
+    path: "Assets/GameScenes/Spain/Transiciones/8a Transici\xF3n Tiktok.unity"
+    guid: c0d2fca43abd79b4b95311c4380e46c6
+  - enabled: 0
+    path: "Assets/GameScenes/Spain/Transiciones/9a Transici\xF3n Armario.unity"
+    guid: 1ea56a6436974c9438c60508f755c69d
+  - enabled: 0
+    path: "Assets/GameScenes/Spain/Transiciones/10a Transici\xF3n Fumar.unity"
+    guid: 806fe886af0489548a2d84259f03c43f
+  - enabled: 0
+    path: "Assets/GameScenes/Spain/Transiciones/11a Transici\xF3n Escenas Bullyng.unity"
+    guid: ccf04f24d06aac745982aa8592dc395d
+  - enabled: 0
+    path: "Assets/GameScenes/Spain/Transiciones/12a Transici\xF3n Escenas Bullyng
+      1.unity"
+    guid: a58ba2976876190488b9747e96bb2c5c
+  - enabled: 0
+    path: "Assets/GameScenes/Spain/Transiciones/14a Transici\xF3n Foto desalentadora.unity"
+    guid: 80453d0bcd9a38649be520c09634ff54
+  - enabled: 0
+    path: "Assets/GameScenes/Spain/Transiciones/15a Transici\xF3n Foto desalentadora
+      comentario.unity"
+    guid: bfb72e49a5d9ad4488c9b0fab17f474e
+  - enabled: 0
+    path: Assets/GameScenes/Spain/Transiciones/16a Final.unity
+    guid: c77c45d9023767d409c16e4b58077b18
+  - enabled: 0
+    path: Assets/GameScenes/Spain/Transiciones/16a Final 1.unity
+    guid: 4982122dd187e314b89e3db19892958f
+  - enabled: 0
+    path: Assets/GameScenes/Spain/Transiciones/16a Final 2.unity
+    guid: aa1a54df3e5d6cb4eb60dde4a5b87797
+  - enabled: 0
+    path: Assets/GameScenes/Spain/ESCENAS/7 Armario_Homofobia.unity
+    guid: 21674138621b75e44be765c3caeacbf4
+  - enabled: 0
+    path: "Assets/GameScenes/Spain/ESCENAS/Casa_D\xEDa.unity"
+    guid: f068205561a669549a8038f9d76a6d51
+  - enabled: 0
+    path: Assets/GameScenes/Spain/ESCENAS/3 Correr.unity
+    guid: 7ce1af454420a084b8d9f38ae4a770b4
+  - enabled: 0
+    path: Assets/GameScenes/Spain/ESCENAS/2 El partido.unity
+    guid: b97900f0374bf984db965724321ed90a
+  - enabled: 0
+    path: Assets/GameScenes/Spain/ESCENAS/8 Escena Fumar.unity
+    guid: 26c8a71a24ac7944bbc83a23d0357e49
+  - enabled: 0
+    path: Assets/GameScenes/Spain/ESCENAS/12 Escena2Bully.unity
+    guid: dc2b725c68649a7409465b1a621e6243
+  - enabled: 0
+    path: Assets/GameScenes/Spain/ESCENAS/11 EscenaBully1.unity
+    guid: f01a636b2f709a44d811085f5e633c58
+  - enabled: 0
+    path: Assets/GameScenes/Spain/ESCENAS/13 EscenaBully3.unity
+    guid: edfc23a925cf09547b7014d7c3849a30
+  - enabled: 0
+    path: Assets/GameScenes/Spain/ESCENAS/5 Estuche.unity
+    guid: f9f4bdd15d9b26348a5c00d4f6da409b
+  - enabled: 0
+    path: Assets/GameScenes/Spain/ESCENAS/Foto desalentadora.unity
+    guid: 219864998db77aa4ca5ab55f0ffa35b7
+  - enabled: 0
+    path: Assets/GameScenes/Spain/ESCENAS/1 Lectura.unity
+    guid: c8def1ff594dfe747a24cb1ab8680113
+  - enabled: 0
+    path: Assets/GameScenes/Spain/ESCENAS/Post en redes.unity
+    guid: c9c81ec87d2c43344a2dae0faa0af91b
+  - enabled: 0
+    path: Assets/GameScenes/Spain/ESCENAS/6 Tiktok.unity
+    guid: 48a96a53dde2ead4f9940ade2121ad8d
+  - enabled: 0
+    path: "Assets/GameScenes/Spain/ESCENAS/4 Zapatillas Nike imitaci\xF3n.unity"
+    guid: 40d44eb54ba043b4fb2f3eb540601735
+  - enabled: 0
+    path: Assets/GameScenes/Spain/Disclaimer.unity
+    guid: a0dd3eb5968f8664ab20e6b84d111e26
+  - enabled: 0
+    path: "Assets/GameScenes/Spain/Final Cr\xE9ditos.unity"
+    guid: defa8e551ab3d064aaebffce47adc3aa
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8b4e9eed5945c5246b27976a95969a72
+  - enabled: 0
+    path: Assets/Scenes/Combate.unity
+    guid: 08e285be29aa98d449b1ac96cb78a5fc
+  - enabled: 0
+    path: Assets/Scenes/OverWrld.unity
+    guid: 503533ab1a886f74c8c157bb98c3200a
+  - enabled: 0
+    path: Assets/GameScenes/Spain/Calle.unity
+    guid: 809246e58f3f70f4893c29b65a16d326
+  - enabled: 0
+    path: Assets/GameScenes/Spain/patio.unity
+    guid: 2476d89c0d2316d489b8f0db7d0cdfa5
+  - enabled: 0
+    path: Assets/Scenes/Home.unity
+    guid: 6a7eb79d588b57a41be78a63b85ccd2b
+  - enabled: 0
+    path: Assets/Scenes/Clase.unity
+    guid: 4a8f63e8335117f408b028a8393aa8c8
+  - enabled: 0
+    path: Assets/TIMELINES/EscenaBully3.unity
+    guid: 5541a5abd0e514c4d918eaa56d9add1b
+  - enabled: 0
+    path: Assets/TIMELINES/Escena2Bully.unity
+    guid: e6e846b93013b7a4d9ee6cafba5d0e2c
+  - enabled: 0
+    path: Assets/TIMELINES/OverWrld 3.unity
+    guid: fa948d94035b0c1439413de3a22e054a
+  - enabled: 0
+    path: "Assets/GameScenes/Spain/Transiciones/13a Transici\xF3n Escenas Bullyng
+      2.unity"
+    guid: a4311829d57d5e648b730da5f9bd6496
+  - enabled: 0
+    path: Assets/GameScenes/Spain/ESCENAS/Casa_Final.unity
+    guid: 4d629139a5cc1094faaae8a403b9f0f7
+  - enabled: 0
+    path: Assets/Minijuego Jump/Scenes/Lectura.unity
+    guid: 82bfbc681a2be9845b7208b78e4cf305
+  - enabled: 0
+    path: Assets/Minijuego Jump/Scenes/CarreraContraReloj.unity
+    guid: 08985efdc13126c4b9c8dc2df4452b4f
+  - enabled: 0
+    path: Assets/Minijuego Jump/Scenes/Tabaco.unity
+    guid: dbb7902ddf152b14bad05363e77fdf9f
+  - enabled: 0
+    path: Assets/Minijuego Jump/Scenes/Combate EscenaBullyng.unity
+    guid: fc3e124ef311c1a49b5e2642ede35e1d
+  - enabled: 0
+    path: Assets/Minijuego Jump/Scenes/Combate Final.unity
+    guid: 92bb1f6c4b9b75a4fbfaf84837ac2742
+  - enabled: 0
+    path: Assets/Minijuego Jump/Scenes/Futbol.unity
+    guid: e1c96a35c4059e04492ab20925756f4c
+  - enabled: 0
+    path: Assets/Minijuego Jump/Scenes/Homofobia.unity
+    guid: 41c91f0d683936245b4fdafcee9e0e4c
+  - enabled: 1
+    path: Assets/Scenes/SampleScene 1.unity
+    guid: 4814f3ead774588408cf88e313e7018d
+  - enabled: 0
+    path: Assets/GameScenes/Spain/Transiciones/5_1 Primero.unity
+    guid: 415f3633223f35e458fd5c0e9ea5c834
+  - enabled: 0
+    path: Assets/GameScenes/Spain/Transiciones/5_2 De los primeros.unity
+    guid: 1ab7a8503b6a29c43bd93c7c503aa7b6
+  - enabled: 0
+    path: Assets/GameScenes/Spain/Transiciones/5_3 Mid.unity
+    guid: bf31abd9327e8604f8b1b59f624f6f0b
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 2d02857c7641a104aa2e20f89ec11b4e, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: c851bcc82d2069041ab6eae5a4521695, type: 2}
